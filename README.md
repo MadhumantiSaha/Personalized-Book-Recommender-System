@@ -7,6 +7,9 @@
 
 A semantic book recommendation system powered by Large Language Models (LLMs). This project uses vector search, zero-shot classification, and sentiment analysis to provide personalized book suggestions based on natural language queries.
 
+<img width="1328" height="577" alt="image" src="https://github.com/user-attachments/assets/dadec9ae-eb88-4d60-b355-40b1d1d914e5" />
+
+
 ## ✨ Features
 
 - **Semantic Search**: Find books using natural language queries (e.g., "a book about a person seeking revenge")
@@ -112,6 +115,7 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Made with ❤️ for book lovers
 </p>
+
 
 
 
