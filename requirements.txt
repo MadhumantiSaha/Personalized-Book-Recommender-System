@@ -7,6 +7,5 @@ langchain-community
 langchain-opencv
 langchain-chroma
 transformers
-gradio
 notebook
 ipywidgets

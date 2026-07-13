@@ -1,0 +1,19 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pandas
+numpy
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+# + your existing ones
+PyTorch
+matplotlib
+seaborn
+transformers
+chardet
+
+torch 
+torchvision 
+torchaudio
